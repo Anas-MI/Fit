@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1027825219374",
+    "firebase_url": "https://synergistic-golf.firebaseio.com",
+    "project_id": "synergistic-golf",
+    "storage_bucket": "synergistic-golf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027825219374:android:98474deefe84558a",
+        "android_client_info": {
+          "package_name": "com.synergisticgolf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027825219374-0tec2mre5ea26kh1sajlies586uj8ueo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1027825219374-0tec2mre5ea26kh1sajlies586uj8ueo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3dSLPpQndS_rKVr3_Q5G3ZNZAXxNTs8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
