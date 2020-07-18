@@ -13,7 +13,7 @@
     "@babel/runtime": "^7.5.5",
     "@react-native-community/netinfo": "^4.3.0",
     "icepick": "^2.3.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "moment": "^2.22.2",
     "react": "16.9.0",
     "react-native": "0.61.1",
